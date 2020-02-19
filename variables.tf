@@ -10,3 +10,6 @@ variable "domain" {
 
 variable "name" {
 }
+
+variable "deployuser" {
+}
